@@ -2,7 +2,7 @@
 
 # Exploración de datos de vehículos utilizados
 
-    Estos datos fueron proporcionados por las plataforma. Estos datos se componen de la siguiente información: 
+**Estos datos fueron proporcionados por las plataforma. Estos datos se componen de la siguiente información: 
     -Precio
     -Año del modelo
     -Condición
@@ -14,7 +14,7 @@
     -Color
     -Four Wheel Drive (bloqueo de ambos ejes de tracción)
     -Fecha de publicación
-    -Días listados
+    -Días listados**
 
 ## Descripción
 
@@ -41,3 +41,9 @@ Para ejecutar la aplicación, necesitarás tener instalados los siguientes paque
 - pandas
 - plotly_express
 - streamlit
+
+## URL GitHub
+    https://github.com/Alcalov15/Proyecto/tree/main
+
+## URL Render
+_   https://proyecto-gee1.onrender.com 
